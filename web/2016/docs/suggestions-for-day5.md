@@ -1,11 +1,14 @@
-* Form small groups and come up with one or more suggestions.
-* Pull from the main master `make pull` or `git pull https://github.com/biostars/bootcamp-central.git`
+What should be cover during day 5:
 
-* Edit the file called `web/2016/docs/suggestions-for-day5.md`
-and add your suggestions to it.
-* Open a pull request to merge it into the main
+* Making Galaxy tools.
+* How to run code in parallel.
+* Show example of a realtime project in Git/Python.
+* Best programming practices in general.
+* Run a local environment of Galaxy/Build Galaxy tools.
+* Comparison of creating reports with R markdown vs Jupyter.
+* Using Plotly and Jupyter to generate interactive plots.
+* How to choose simple statistical tests.
+* Create a step-by-step guide to generate a repository in github that can be shared in a paper or grant application
+*show us how to improve figures using plot and related functions in gplot or gplot2 of R, for example, changing label, or legend of many kinds of plots - boxplot, clustering plots, scatterplot, and so on
 
----
-
-Suggestions go here
 
